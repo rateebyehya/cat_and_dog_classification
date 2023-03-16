@@ -12,3 +12,4 @@ Web services are often protected with a challenge that is supposed to be easy fo
 With deep learning, it is suggested that machine classifiers can score above 80% accuracy in this task, leaving CAPTCHA in danger of being cracked by deep learning networks. 
 
 # Check the Report for More 
+Check the report for full analysis. You can find it in the repository.
